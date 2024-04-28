@@ -18,7 +18,6 @@ superuser: true
 
 # Role/position/tagline
 role: PhD in Atomic and Molecular Physics
-      niuyong1905@foxmail.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -95,6 +94,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:niuyong1905@foxmail.com'
+    name: niuyong1905@foxmail.com
   
   
 
