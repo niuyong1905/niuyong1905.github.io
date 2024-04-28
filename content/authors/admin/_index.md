@@ -23,6 +23,7 @@ role: PhD in Atomic and Molecular Physics
 organizations:
   - name: Shaanxi University of Science and Technology
     url: https://www.sust.edu.cn/
+    Email: niuyong1905@foxmail.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include high harmonic generation, spintronics and density functional theory.
