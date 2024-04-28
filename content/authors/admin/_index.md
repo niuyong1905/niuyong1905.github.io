@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: niuyong1905@foxmail.com
+role: PhD in Atomic and Molecular Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -94,7 +94,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:niuyong1905@foxmail.com'
-  
+
+email: niuyong1905@foxmail.com  
   
 
 # Highlight the author in author lists? (true/false)
