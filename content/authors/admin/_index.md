@@ -18,12 +18,12 @@ superuser: true
 
 # Role/position/tagline
 role: PhD in Atomic and Molecular Physics
+      niuyong1905@foxmail.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shaanxi University of Science and Technology
     url: https://www.sust.edu.cn/
-    Email: niuyong1905@foxmail.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include high harmonic generation, spintronics and density functional theory.
@@ -94,7 +94,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:niuyong1905@foxmail.com'
   
   
 
