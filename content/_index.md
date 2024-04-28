@@ -148,6 +148,38 @@ sections:
     design:
       columns: '2'
       view: compact
+  
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # Contact (add or remove contact options as necessary)
+      email: niuyong1905@foxmail.com
+      phone: 888 888 88 88
+      
+      address:
+        street: Longshuo street
+        city: Xi'an
+        region: Shaanxi Province
+        postcode: '710021'
+        country: China
+      
+      office_hours:
+        - 'Monday 8:00 to 12:00'
+        - 'Wednesday 08:00 to 12:00'
+      appointment_url: 'https://calendly.com'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
+  
+  
+  
+  
+  
   - block: tag_cloud
     content:
       title: Popular Topics
