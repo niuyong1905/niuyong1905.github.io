@@ -18,7 +18,7 @@ superuser: true
 
 # Role/position/tagline
 role: PhD in Atomic and Molecular Physics
-email: 'niuyong1905@foxmail.com'
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shaanxi University of Science and Technology
