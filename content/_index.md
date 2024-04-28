@@ -42,7 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      
+
   - block: collection
     id: posts
     content:
@@ -110,6 +110,7 @@ sections:
       flip_alt_rows: false
   
   - block: collection
+    id: featured
     content:
       title: Featured Publications
       text: |-
@@ -125,7 +126,7 @@ sections:
       view: citation
 
   - block: collection
-    id: featured
+    
     content:
       title: Conference
       filters:
