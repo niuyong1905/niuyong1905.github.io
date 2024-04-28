@@ -3,11 +3,11 @@
 title: 牛永
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Niu Yong
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yong
+last_name: Niu
 
 # Status emoji
 status:
@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD in Atomic and Molecular Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shaanxi University of Science and Technology
+    url: https://en.sust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include high harmonic generation, spintronics and density functional theory.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Attosecond Physics
+  - First-principles calculations
+  - Physics-Informed Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Atomic and Molecular Physics
+      institution: Jilin University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
