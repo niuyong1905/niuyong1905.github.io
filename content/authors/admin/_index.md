@@ -25,7 +25,7 @@ organizations:
     url: https://www.sust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high harmonic generation, spintronics and density functional theory.
+#bio: My research interests include high harmonic generation, spintronics and density functional theory.
 
 # Interests to show in About widget
 interests:
