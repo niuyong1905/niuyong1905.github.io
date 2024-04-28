@@ -171,10 +171,7 @@ sections:
         - 'Monday 8:00 to 12:00'
         - 'Wednesday 08:00 to 12:00'
       appointment_url: 'https://calendly.com'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      
   
   
   
