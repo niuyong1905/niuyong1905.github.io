@@ -3,7 +3,7 @@
 title: 牛永
 
 # Name pronunciation (optional)
-name_pronunciation: Niu Yong
+name_pronunciation: Yong Niu 
 
 # Full name (for SEO)
 first_name: Yong
