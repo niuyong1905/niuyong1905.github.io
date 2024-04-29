@@ -76,11 +76,3 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 
 
----
-title: "An second example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-
----
