@@ -55,7 +55,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:niuyong1905@foxmail.com'
-    role: niuyong1905@foxmail.com
+   
 
  
   
