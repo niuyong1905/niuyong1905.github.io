@@ -38,13 +38,13 @@ education:
   courses:
     - course: PhD in Atomic and Molecular Physics
       institution: Jilin University
-      year: 2011-2017
-   # - course: MEng in Artificial Intelligence
-   #   institution: Massachusetts Institute of Technology
-   #   year: 2009
-    - course: BSc in Physics
-      institution: Xinyang Normal University
-      year: 2007-2011
+      year: 2013-2017
+    - course: MSc in Atomic and Molecular Physics
+      institution: Jilin University
+      year: 2011-2013
+    #- course: BSc in Physics
+     # institution: Xinyang Normal University
+      #year: 2007-2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
