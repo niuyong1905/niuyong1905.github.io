@@ -64,6 +64,17 @@ projects: []
 slides: example
 ---
 
+---
+title: "Pressure-dependent phase matching for high harmonic generation of Ar and N2 in the tight focusing regime"
+authors:
+- admin
+- Dajun Ding
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
+
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
