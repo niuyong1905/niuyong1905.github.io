@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Attosecond Physics
-  - First-principles calculations
+  - First-principles calculations in spintronics and catalysis
   - Physics-Informed Machine Learning
 
 # Education to show in About widget
