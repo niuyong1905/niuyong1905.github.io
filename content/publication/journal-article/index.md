@@ -73,3 +73,14 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+
+---
+title: "An second example journal article"
+authors:
+- admin
+- Robert Ford
+author_notes:
+
+---
