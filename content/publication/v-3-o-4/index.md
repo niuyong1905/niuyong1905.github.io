@@ -3,10 +3,11 @@ title: First-Principles Study of the Effect of Native Defects on Spin Polarizati
   and Exchange Coupling Interaction in Semimetal V3O4
 authors:
 - Pan Wang
-- Yong Niu
+- admin
 - Wenbin Cao
 - Yunxia Zhang
 - Mingzhe Zhang
+corresponding_author: "admin"
 date: '2020-01-01'
 publishDate: '2024-04-29T06:02:29.818984Z'
 publication_types:

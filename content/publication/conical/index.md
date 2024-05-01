@@ -2,7 +2,7 @@
 title: A tunable XUV monochromatic light source based on the time preserving grating
   selection of high-order harmonic generation
 authors:
-- Yong Niu
+- admin
 - Hongjing Liang
 - Yi Liu
 - Fangyuan Liu

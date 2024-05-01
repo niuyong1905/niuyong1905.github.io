@@ -2,7 +2,7 @@
 title: Pressure-dependent phase matching for high harmonic generation of Ar and N2
   in the tight focusing regime
 authors:
-- Yong Niu
+- admin
 - Fangyuan Liu
 - Yi Liu
 - Hongjing Liang

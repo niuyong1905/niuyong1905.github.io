@@ -1,7 +1,7 @@
 ---
 title: Tuning the spin polarization in monolayer MoS2 through (Y,Yb) co-doping
 authors:
-- Yong Niu
+- admin
 - Pan Wang
 - Mingzhe Zhang
 date: '2020-01-01'

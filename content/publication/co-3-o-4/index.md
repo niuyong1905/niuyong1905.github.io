@@ -3,7 +3,7 @@ title: Theoretical investigation of the effect of native defects on spin polariz
   and antiferromagnetic state in Co3O4
 authors:
 - Pan Wang
-- Yong Niu
+- admin
 date: '2022-01-01'
 publishDate: '2024-04-29T06:02:29.803623Z'
 publication_types:
