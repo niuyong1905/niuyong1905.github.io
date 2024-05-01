@@ -64,5 +64,5 @@ social:
 highlight_name: true
 ---
 
-Yong Niu is a associate professor of Atomic and Molecular Physics in School of Physics & Information Science，Shaanxi University of Science and Technology. His research interests include attosecond physics, first-principles calculations and Physics-Informed Machine Learning. He leads the Attosecond and Computational Science Group (ACSG), which develops coherent XUV/soft-X-ray sources based on the high-harmonic generation process with femtosecond/attosecond time and nanometer spatial resolution for spectroscopy, imaging, and metrology applications, especially for material science. 
+Yong Niu is a associate professor of Atomic and Molecular Physics in School of Physics & Information Science, Shaanxi University of Science and Technology. His research interests include attosecond physics, first-principles calculations and Physics-Informed Machine Learning. He leads the Attosecond and Computational Science Group (ACSG), which develops coherent XUV/soft-X-ray sources based on the high-harmonic generation process with femtosecond/attosecond time and nanometer spatial resolution for spectroscopy, imaging, and metrology applications, especially for material science. 
 {style="text-align: justify;"}
