@@ -125,18 +125,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
-    
-    content:
-      title: Conference
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-
+  
 
   - block: collection
     id: talks
