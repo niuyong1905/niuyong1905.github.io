@@ -7,7 +7,6 @@ authors:
 - Wenbin Cao
 - Yunxia Zhang
 - Mingzhe Zhang
-corresponding_author: "admin"
 date: '2020-01-01'
 publishDate: '2024-04-29T06:02:29.818984Z'
 publication_types:
