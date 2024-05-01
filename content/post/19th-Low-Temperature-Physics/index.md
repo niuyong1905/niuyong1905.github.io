@@ -8,10 +8,15 @@ authors:
   - 陈仙辉
   - 封东来
   - 韩秀峰
+  - 雒建林
+  - 程金光
 # Author notes (optional)
-#author_notes:
-  #- 'Equal contribution'
-  #- 'Equal contribution'
+author_notes:
+  - '主任'
+  - ''
+  - ''
+  - ''
+  - '秘书长'
 
 date: '2024-04-01T00:00:00Z'
 doi: ''
@@ -28,10 +33,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena; superconductivity, strongly correlated electron systems, and quantum phase transitions; the magnetism of solids and their surfaces/interfaces, spintronics, the properties of multiferroic materials, and thermal properties; the properties of low-dimensional materials and nanodevices, topological insulators/Dirac semimetals, quantum transport, quantum computing, low-temperature experimental techniques, and applications, demonstrating the broad application prospects of low-temperature physics research.
 
 tags: []
 
