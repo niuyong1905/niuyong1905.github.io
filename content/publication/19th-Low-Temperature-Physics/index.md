@@ -9,9 +9,9 @@ authors:
   - 封东来
   - 韩秀峰
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+  #- 'Equal contribution'
+  #- 'Equal contribution'
 
 date: '2024-04-01T00:00:00Z'
 doi: ''

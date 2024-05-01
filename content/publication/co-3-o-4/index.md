@@ -4,6 +4,9 @@ title: Theoretical investigation of the effect of native defects on spin polariz
 authors:
 - Pan Wang
 - admin
+author_notes:
+- ""
+- "Corresponding author"
 date: '2022-01-01'
 publishDate: '2024-04-29T06:02:29.803623Z'
 publication_types:
