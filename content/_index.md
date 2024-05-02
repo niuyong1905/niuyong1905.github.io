@@ -68,7 +68,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: showcase
       columns: '2'
   
   - block: markdown
@@ -96,9 +96,9 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All Areas of Research Interest
+        - name: All Research Interests
           tag: '*'
-        - name: Attosecond Physics and high harmonic generation
+        - name: Attosecond Physics and High Harmonic Generation
           tag: attosecond
         - name: First-principles calculations
           tag: DFT
@@ -106,7 +106,7 @@ sections:
           tag: AI  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '4'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
