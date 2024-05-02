@@ -99,11 +99,11 @@ sections:
         - name: All
           tag: '*'
         - name: Attosecond Physics
-          tag: Deep Learning
+          tag: atto
         - name: First-principles calculations
-          tag: Demo
+          tag: DFT
         - name: Physics-Informed Machine Learning
-          tag: Demo1  
+          tag: AI  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
