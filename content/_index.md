@@ -99,7 +99,7 @@ sections:
         - name: All
           tag: '*'
         - name: Attosecond Physics
-          tag: atto
+          tag: attosecond
         - name: First-principles calculations
           tag: DFT
         - name: Physics-Informed Machine Learning
