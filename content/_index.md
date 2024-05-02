@@ -82,12 +82,12 @@ sections:
   
   
   - block: portfolio
-    id: projects
+    id: research
     content:
       title: Research
       filters:
         folders:
-          - project
+          - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -102,8 +102,8 @@ sections:
           tag: Deep Learning
         - name: First-principles calculations
           tag: Demo
-        - name: Physics-Informed Machine Learning
-          tag: Demo  
+        #- name: Physics-Informed Machine #Learning
+          #tag: Demo1  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
