@@ -96,7 +96,7 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All research interests
+        - name: All Areas of Research Interest
           tag: '*'
         - name: Attosecond Physics
           tag: attosecond
