@@ -102,8 +102,8 @@ sections:
           tag: Deep Learning
         - name: First-principles calculations
           tag: Demo
-        #- name: Physics-Informed Machine #Learning
-          #tag: Demo1  
+        - name: Physics-Informed Machine Learning
+          tag: Demo1  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
