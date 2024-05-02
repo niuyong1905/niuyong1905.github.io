@@ -98,7 +98,7 @@ sections:
       buttons:
         - name: All Areas of Research Interest
           tag: '*'
-        - name: Attosecond Physics
+        - name: Attosecond Physics and high harmonic generation
           tag: attosecond
         - name: First-principles calculations
           tag: DFT
