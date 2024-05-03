@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Physics-Informed Machine Learning
 summary: An example of using the in-built project page.
 tags:
   - AI
