@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Attosecond physics and high harmonic generation.
 tags:
   - attosecond
 date: '2016-04-27T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  #caption: Johan Jarnestad/The Royal Swedish Academy of Sciences, CC BY-NC-ND
   focal_point: Smart
 
 links:
