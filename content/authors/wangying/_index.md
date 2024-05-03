@@ -7,7 +7,7 @@ name_pronunciation: 王莹
 
 last_name: wang
 authors:
-  - <wangying>
+  - wangying
 # Is this the primary user of the site?
 superuser: false
 
@@ -23,7 +23,7 @@ organizations:
 interests:
     - Physics-Informed Machine Learning
 
-
+user_groups: ["Researchers", "Visitors"] 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
