@@ -175,7 +175,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Undergraduate students with backgrounds in disciplines such as physics, mathematics, computer science, and related fields are welcome to contact me.
       # Contact (add or remove contact options as necessary)
       email: niuyong1905@foxmail.com
       phone: 888 888 88 88
