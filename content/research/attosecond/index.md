@@ -30,12 +30,30 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+How long is an attosecond?
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+“Atto” is the scientific notation prefix that represents 10⁻¹⁸, which is a decimal point followed by 17 zeroes and a 1. So a flash of light lasting an attosecond, or 0.000000000000000001 of a second, is an extremely short pulse of light.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+In fact, there are approximately as many attoseconds in one second as there are seconds in the age of the universe.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Previously, scientists could study the motion of heavier and slower-moving atomic nuclei with femtosecond (10⁻¹⁵) light pulses. One thousand attoseconds are in 1 femtosecond. But researchers couldn’t see movement on the electron scale until they could generate attosecond light pulses – electrons move too fast for scientists to parse exactly what they are up to at the femtosecond level.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Attosecond pulses
+
+The rearrangement of electrons in atoms and molecules guides a lot of processes in physics, and it underlies practically every part of chemistry. Therefore, researchers have put a lot of effort into figuring out how electrons are moving and rearranging.
+
+However, electrons move around very rapidly in physical and chemical processes, making them difficult to study. To investigate these processes, scientists use spectroscopy, a method of examining how matter absorbs or emits light. In order to follow the electrons in real time, researchers need a pulse of light that is shorter than the time it takes for electrons to rearrange.
+
+As an analogy, imagine a camera that could only take longer exposures, around 1 second long. Things in motion, like a person running toward the camera or a bird flying across the sky, would appear blurry in the photos taken, and it would be difficult to see exactly what was going on.
+
+Then, imagine you use a camera with a 1 millisecond exposure. Now, motions that were previously smeared out would be nicely resolved into clear and precise snapshots. That’s how using the attosecond scale, rather than the femtosecond scale, can illuminate electron behaviour.
+
+Attosecond research
+
+So what kind of research questions can attosecond pulses help answer?
+
+For one, breaking a chemical bond is a fundamental process in nature where electrons that are shared between two atoms separate out into unbound atoms. The previously shared electrons undergo ultrafast changes during this process, and attosecond pulses made it possible for researchers to follow the real-time breaking of a chemical bond.
+
+The ability to generate attosecond pulses – the research for which three researchers earned the 2023 Nobel Prize in physics – first became possible in the early 2000s, and the field has continued to grow rapidly since. By providing shorter snapshots of atoms and molecules, attosecond spectroscopy has helped researchers understand electron behaviour in single molecules, such as how electron charge migrates and how chemical bonds between atoms break.
+
+On a larger scale, attosecond technology has also been applied to studying how electrons behave in liquid water as well as electron transfer in solid-state semiconductors. As researchers continue to improve their ability to produce attosecond light pulses, they’ll gain a deeper understanding of the basic particles that make up matter.
