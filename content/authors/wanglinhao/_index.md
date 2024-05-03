@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Linhao Wang
+title: Ying Wang
 
 # Name pronunciation (optional)
-name_pronunciation: 王林豪
+name_pronunciation: 王莹
 
 last_name: wang
 authors:
-  - wanglinhao
+  - wangying
 # Is this the primary user of the site?
 superuser: false
 
@@ -21,7 +21,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-    - First-principles calculations
+    - Physics-Informed Machine Learning
 
 #user_groups: ["Researchers", "Visitors"] 
 user_groups: ["Graduate Students"] 
