@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Attosecond Physics
 summary: Attosecond physics and high harmonic generation.
 tags:
   - attosecond
