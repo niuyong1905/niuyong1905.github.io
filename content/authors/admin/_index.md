@@ -27,6 +27,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include high harmonic generation, spintronics and density functional theory.
 
+email: niuyong1905@foxmail.com
+
 # Interests to show in About widget
 interests:
   - Attosecond Physics
