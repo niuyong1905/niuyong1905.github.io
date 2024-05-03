@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: postgraduate student
+#role: Graduate student
 
 organizations:
   - name: Shaanxi University of Science and Technology
@@ -23,7 +23,8 @@ organizations:
 interests:
     - Physics-Informed Machine Learning
 
-user_groups: ["Researchers", "Visitors"] 
+#user_groups: ["Researchers", "Visitors"] 
+user_groups: ["Graduate Students"] 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -32,11 +33,11 @@ user_groups: ["Researchers", "Visitors"]
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:niuyong1905@foxmail.com'
+    link: 'mailto:**********'
    
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Ying Wang is a associate professor of Atomic and Molecular Physics in School of Physics & Information Science, Shaanxi University of Science and Technology. 
+Ying Wang is ****** 
 {style="text-align: justify;"}
