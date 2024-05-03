@@ -7,7 +7,7 @@ name_pronunciation: 王莹
 
 last_name: wang
 authors:
-  - <USERNAME>
+  - <wangying>
 # Is this the primary user of the site?
 superuser: false
 
