@@ -56,7 +56,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:niuyong1905@foxmail.com'
+    link: '/#contact'
    
 
  
