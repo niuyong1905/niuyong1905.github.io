@@ -5,7 +5,7 @@ title: Linhao Wang
 # Name pronunciation (optional)
 name_pronunciation: 王林豪
 
-last_name: wang
+last_name: waang
 authors:
   - wanglinhao
 # Is this the primary user of the site?
