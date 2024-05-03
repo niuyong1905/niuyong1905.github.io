@@ -106,7 +106,8 @@ sections:
           tag: AI  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '4'
+      columns: '1'
+      rows: '4'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -161,7 +162,7 @@ sections:
       office_hours:
         - 'Monday 8:00 to 12:00'
         - 'Wednesday 08:00 to 12:00'
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       
   
   
