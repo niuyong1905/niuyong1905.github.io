@@ -5,7 +5,7 @@ title: Ying Wang
 # Name pronunciation (optional)
 name_pronunciation: 王莹
 
-last_name=wang
+last_name: wang
 authors:
   - <USERNAME>
 # Is this the primary user of the site?
