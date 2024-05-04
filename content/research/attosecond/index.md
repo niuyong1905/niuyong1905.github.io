@@ -3,7 +3,7 @@ title: Attosecond Physics
 summary: Attosecond physics and high harmonic generation.
 tags:
   - attosecond
-date: '2016-04-27T00:00:00Z'
+date: '2024-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    #url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,7 +30,7 @@ url_video: ''
 slides: example
 ---
 
-## How long is an attosecond?
+## **How long is an attosecond?**
 
 “Atto” is the scientific notation prefix that represents 10⁻¹⁸, which is a decimal point followed by 17 zeroes and a 1. So a flash of light lasting an attosecond, or 0.000000000000000001 of a second, is an extremely short pulse of light.
 
@@ -38,7 +38,7 @@ In fact, there are approximately as many attoseconds in one second as there are 
 
 Previously, scientists could study the motion of heavier and slower-moving atomic nuclei with femtosecond (10⁻¹⁵) light pulses. One thousand attoseconds are in 1 femtosecond. But researchers couldn’t see movement on the electron scale until they could generate attosecond light pulses – electrons move too fast for scientists to parse exactly what they are up to at the femtosecond level.
 
-## Attosecond pulses
+## **Attosecond pulses**
 
 The rearrangement of electrons in atoms and molecules guides a lot of processes in physics, and it underlies practically every part of chemistry. Therefore, researchers have put a lot of effort into figuring out how electrons are moving and rearranging.
 
@@ -48,7 +48,7 @@ As an analogy, imagine a camera that could only take longer exposures, around 1 
 
 Then, imagine you use a camera with a 1 millisecond exposure. Now, motions that were previously smeared out would be nicely resolved into clear and precise snapshots. That’s how using the attosecond scale, rather than the femtosecond scale, can illuminate electron behaviour.
 
-## Attosecond research
+## **Attosecond research**
 
 So what kind of research questions can attosecond pulses help answer?
 

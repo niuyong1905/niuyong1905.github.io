@@ -6,7 +6,7 @@ tags:
 date: '2024-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.nature.com/articles/s42254-021-00314-5'
+external_link: ''
 
 image:
   caption: Image by Donald Jorgensen | Pacific Northwest National Laboratory
