@@ -1,6 +1,6 @@
 ---
 title: First-principles calculations
-summary: Attosecond physics and high harmonic generation.
+summary: First-principles electronic structure calculations are based on the laws of quantum mechanics and only use the fundamental constants of physics as input to provide detailed insight into the origin of mechanical, electronic, optical and magnetic properties of materials and molecules.
 tags:
   - DFT
 date: '2024-04-28T00:00:00Z'
