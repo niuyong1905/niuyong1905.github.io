@@ -1,0 +1,18 @@
+<meta name="twitter:card" content="summary">
+{{with .Params.image}}
+<meta name="twitter:image" content="{{site.Params.baseURL}}{{ . | relURL }}">
+{{ else }}
+  {{ range first 1 (where site.RegularPages "Type" "post")}}
+    <meta name="twitter:image" content="{{site.Params.baseURL}}{{ .Params.Image | relURL }}"/>
+  {{end}}
+{{end}}
+<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+{{ with .Site.Social.twitter -}}
+<meta name="twitter:site" content="@{{ . }}"/>
+{{ end -}}
+{{ range .Site.Authors }}
+{{ with .twitter -}}
+<meta name="twitter:creator" content="@{{ . }}"/>
+{{ end -}}
+{{ end -}}
