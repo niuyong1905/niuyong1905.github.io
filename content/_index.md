@@ -165,7 +165,7 @@ sections:
       # Show user's role?
       show_role: true
       # Show user's organizations/affiliations?
-      show_organizations: false
+      show_organizations: true
 
 
   
