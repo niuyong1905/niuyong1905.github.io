@@ -9,7 +9,7 @@ date: '2024-05-01T00:00:00Z'
 external_link: ''
 
 image:
-  #caption: Johan Jarnestad/The Royal Swedish Academy of Sciences, CC BY-NC-ND
+  caption: E Goulielmakis/University of Rostock
   focal_point: Smart
 
 links:
