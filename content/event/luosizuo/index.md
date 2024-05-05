@@ -12,7 +12,7 @@ location: Science Building, Room 451
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: He explained the contributions of the three scientists who won the 2023 Nobel Prize in Physics in generating attosecond light pulses and using these ultrashort pulses to probe ultrafast electron dynamics in atoms, molecules, liquids, and materials.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
