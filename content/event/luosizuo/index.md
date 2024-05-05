@@ -1,5 +1,5 @@
 ---
-title: An attosecond light pulse:A powerful tool for probing the electron dynamics of matter
+title: An attosecond light pulse-A powerful tool for probing the electron dynamics of matter
 
 #event: Hugo Blox Builder Conference
 #event_url: https://example.org
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+#projects:
   - example
 ---
 
