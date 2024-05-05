@@ -1,30 +1,28 @@
 ---
-title: An attosecond light pulse-A powerful tool for probing the electron dynamics of matter
+title: Example Talk
 
 event: Hugo Blox Builder Conference
-#event_url: https://example.org
+event_url: https://example.org
 
-location: Science Building, Room 451
-#address:
-  #street: 450 Serra Mall
-  #city: Stanford
-  #region: CA
-  #postcode: '94305'
-  #country: United States
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: He explained the contributions of the three scientists who won the 2023 Nobel Prize in Physics in generating attosecond light pulses and using these ultrashort pulses to probe ultrafast electron dynamics in atoms, molecules, liquids, and materials.
-abstract: 'During the seminar, Professor Si-Zuo Luo, drawing on his experience working in the research group of Nobel laureate Anne L'Huillier, introduced the working principles and experimental characterization methods of using high-harmonic generation to produce attosecond extreme ultraviolet light pulses. He explained the contributions of the three scientists who won the 2023 Nobel Prize in Physics in generating attosecond light pulses and using these ultrashort pulses to probe ultrafast electron dynamics in atoms, molecules, liquids, and materials. He also shared the work methods, modes of operation, and interesting stories of the Nobel Prize research group, which are rarely known. Finally, he highlighted the progress made by the Atomic and Molecular Physics Research Institute of Jilin University in developing attosecond extreme ultraviolet light sources over the past few years.
-
-After the seminar, attending teachers and students engaged in in-depth discussions with Professor Luo about the seminar's content. The academic atmosphere was lively, and the attendees greatly benefited from the event.'
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-17T13:00:00Z'
-date_end: '2023-11-17T15:00:00Z'
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-11-18T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -33,32 +31,43 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: Yong Niu'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
+projects:
   - example
 ---
 
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
