@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: An attosecond light pulse A powerful tool for probing the electron dynamics of matter
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: The Weiyang Mentor Forum
+#event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Science Building, Room 451
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,8 +12,10 @@ location: Hugo Blox Builder HQ
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: He explained the contributions of the three scientists who won the 2023 Nobel Prize in Physics in generating attosecond light pulses and using these ultrashort pulses to probe ultrafast electron dynamics in atoms, molecules, liquids, and materials.
+abstract: 'During the seminar, Professor Si-Zuo Luo, drawing on his experience working in the research group of Nobel laureate Anne L'Huillier, introduced the working principles and experimental characterization methods of using high-harmonic generation to produce attosecond extreme ultraviolet light pulses. He explained the contributions of the three scientists who won the 2023 Nobel Prize in Physics in generating attosecond light pulses and using these ultrashort pulses to probe ultrafast electron dynamics in atoms, molecules, liquids, and materials. He also shared the work methods, modes of operation, and interesting stories of the Nobel Prize research group, which are rarely known. Finally, he highlighted the progress made by the Atomic and Molecular Physics Research Institute of Jilin University in developing attosecond extreme ultraviolet light sources over the past few years.
+
+After the seminar, attending teachers and students engaged in in-depth discussions with Professor Luo about the seminar's content. The academic atmosphere was lively, and the attendees greatly benefited from the event.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +30,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: Yong Niu'
