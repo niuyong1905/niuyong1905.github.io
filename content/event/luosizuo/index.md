@@ -2,7 +2,7 @@
 title: An attosecond light pulse A powerful tool for probing the electron dynamics of matter
 
 event: The Weiyang Mentor Forum
-event_url: https://example.org
+#event_url: https://example.org
 
 location: Science Building, Room 451
 # address:
