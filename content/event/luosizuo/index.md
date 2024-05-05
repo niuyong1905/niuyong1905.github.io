@@ -1,7 +1,7 @@
 ---
 title: An attosecond light pulse-A powerful tool for probing the electron dynamics of matter
 
-#event: Hugo Blox Builder Conference
+event: Hugo Blox Builder Conference
 #event_url: https://example.org
 
 location: Science Building, Room 451
