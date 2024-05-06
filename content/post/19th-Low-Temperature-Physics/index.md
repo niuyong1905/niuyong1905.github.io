@@ -36,7 +36,7 @@ publication_short: In *ICW*
 
 
 # Summary. An optional shortened abstract.
-summary: Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena; superconductivity, strongly correlated electron systems, and quantum phase transitions; the magnetism of solids and their surfaces/interfaces, spintronics, the properties of multiferroic materials, and thermal properties; the properties of low-dimensional materials and nanodevices, topological insulators/Dirac semimetals, quantum transport, quantum computing, low-temperature experimental techniques, and applications, demonstrating the broad application prospects of low-temperature physics research.
+summary: 
 
 tags: []
 
@@ -69,23 +69,19 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+  #- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena; superconductivity, strongly correlated electron systems, and quantum phase transitions; the magnetism of solids and their surfaces/interfaces, spintronics, the properties of multiferroic materials, and thermal properties; the properties of low-dimensional materials and nanodevices, topological insulators/Dirac semimetals, quantum transport, quantum computing, low-temperature experimental techniques, and applications, demonstrating the broad application prospects of low-temperature physics research.
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
