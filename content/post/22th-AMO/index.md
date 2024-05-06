@@ -1,5 +1,5 @@
 ---
-title: '20th National Conference on Atom and Molecular Physics'
+title: '22th National Conference on Atom and Molecular Physics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -18,11 +18,11 @@ author_notes:
   - ''
   - '秘书长'
 
-date: '2024-04-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-04-025T00:00:00Z'
+publishDate: '2023-09-025T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -83,7 +83,7 @@ image:
   
 ---
 
-Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena; 
+Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena
 
 
 
