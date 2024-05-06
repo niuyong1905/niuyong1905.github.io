@@ -64,6 +64,29 @@
         {{ end }}
       </div>
 
+      
+      <style>
+        .network-icon li a {
+            text-decoration: none;
+        }
+    
+        .network-icon li a i {
+            text-decoration: none;
+        }
+    
+        .network-icon li a:hover {
+            text-decoration: none;
+        }
+    
+        .network-icon li a:hover i {
+            text-decoration: none;
+        }
+    </style>
+    
+
+
+
+
       <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
           {{ $pack := or .icon_pack "fas" }}
