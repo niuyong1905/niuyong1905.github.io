@@ -68,7 +68,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: showcase
+      flip_alt_rows: true
       columns: '1'
   
   - block: markdown
