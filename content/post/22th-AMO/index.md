@@ -1,15 +1,15 @@
 ---
-title: '20th National Conference on Low Temperature Physics'
+title: '20th National Conference on Atom and Molecular Physics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - 陈仙
-  - 封东来
-  - 韩秀峰
-  - 雒建林
-  - 程金光
+# authors:
+#   - 陈仙
+#   - 封东来
+#   - 韩秀峰
+#   - 雒建林
+#   - 程金光
 # Author notes (optional)
 author_notes:
   - '主任'
@@ -54,13 +54,13 @@ featured: true
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: 'http://19ltp.cpsjournals.cn/detail.php?m=178&id=1770&t=3417'
+#url_source: 'http://19ltp.cpsjournals.cn/detail.php?m=178&id=1770&t=3417'
 #url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Attosecond Magnetism'
+  caption: ''
   focal_point: Smart
   preview_only: false
 
@@ -83,7 +83,7 @@ image:
   
 ---
 
-Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena; superconductivity, strongly correlated electron systems, and quantum phase transitions; the magnetism of solids and their surfaces/interfaces, spintronics, the properties of multiferroic materials, and thermal properties; the properties of low-dimensional materials and nanodevices, topological insulators/Dirac semimetals, quantum transport, quantum computing, low-temperature experimental techniques, and applications, demonstrating the broad application prospects of low-temperature physics research.
+Participants discussed quantum gases, quantum fluids, quantum solids, and related macroscopic quantum phenomena; 
 
 
 
