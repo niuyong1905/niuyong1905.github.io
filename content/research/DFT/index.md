@@ -12,10 +12,10 @@ image:
   #caption: Johan Jarnestad/The Royal Swedish Academy of Sciences, CC BY-NC-ND
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
     #url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
